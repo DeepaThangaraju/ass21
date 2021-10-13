@@ -1,0 +1,15 @@
+.container{
+    margin:0 auto;
+    background-image: linear-gradient(to right top, #62e36d, #00c5a9, #009ec8, #0072b9, #4a4583);
+    height:20rem;
+    width: 20rem;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+h1{
+    border:0px solid black;
+    font-size: 3.3rem;
+    padding:5.3rem 0rem 0rem 0rem;
+    color: brown;
+}
